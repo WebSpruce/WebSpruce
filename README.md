@@ -3,9 +3,5 @@
 
 ![.NET Desktop and Android application](https://github.com/WebSpruce/WebSpruce/blob/main/github_background.png)
 
-<h4 align="center">With a keen interest in developing Desktop and Android applications. I typically use.</p>
+<h4 align="center" color="#99aab5">With a keen interest in developing Desktop and Android applications. I typically use.</p>
 <hr>
-<p align="center">
-  <img src="https://github.com/WebSpruce/WebSpruce/blob/main/codding_picture.gif" width="350" title="codding">
-</p>
-
