@@ -2,19 +2,19 @@
 
 ![.NET Desktop and Mobile application](https://github.com/WebSpruce/WebSpruce/blob/main/github_background.png)
 
-<p> I am deeply passionate about programming, a pursuit that has become not just a profession but a profound interest that drives me to explore and innovate. 
-  My primary focus lies in crafting desktop and mobile applications, occasionally websites and simple games.
-  One of my favourite technologies is .NET, an adaptable platform that enables me to create scalable, efficient, and feature-rich solutions.
-  I am always on the lookout for emerging technologies, coding techniques, and best practices. </p>
+🚀 Passionate programmer with a love for innovation and exploration! 🌐 My expertise revolves around crafting dynamic desktop and mobile applications, occasional websites, and engaging games. Specializing in .NET technology, I leverage its versatility to create scalable, efficient, and feature-rich solutions.
   
+- 💻 WPF development for desktop applications.
+- 📱 Xamarin.Forms and Maui for mobile app development.
+- 💻 ASP MVC/API for web solutions.
+- 🧰 MVVM architecture for clean and maintainable code.
+- 🔧 Git expert ensuring seamless collaboration and version control.
+- ☁  Entity Framework, MySql, SQLite, and MSSQL for efficient data management.
+- 🌐 Repository Pattern for organized and efficient data access.
+- 🔄 Utilizes Dependency Injection for scalable and maintainable application architecture.
+- 🎮 Unity for creating immersive and interactive gaming experiences.
 
-- 💻 Wpf
-- 📱 Xamarin.Forms, Maui
-- 💻 ASP MVC/API
-- 🧰 MVVM
-- 🔧 Git
-- ☁ Entity Framework, MySql, SQLite
-- 🎮 Unity
+🔵<a href="https://www.linkedin.com/in/kacper-%C5%9Bwierczek" target="_BLANK">Linkedin Profile</a>
 
 Cheers!
 <hr>
