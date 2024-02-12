@@ -1,6 +1,4 @@
-<h1 align="center">Kacper Świerczek</h1>
-
-![.NET Desktop and Mobile application](https://github.com/WebSpruce/WebSpruce/blob/main/github_background.png)
+![.NET Desktop and Mobile application](https://github.com/WebSpruce/WebSpruce/blob/main/linkedin_banner.jpg?raw=true)
 
 🚀 Passionate programmer with a love for innovation and exploration! 🌐 My expertise revolves around crafting dynamic desktop and mobile applications also websites and occasional engaging games. Specializing in .NET technology, I leverage its versatility to create scalable, efficient, and feature-rich solutions.
   
