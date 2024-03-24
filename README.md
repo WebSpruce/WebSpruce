@@ -4,14 +4,14 @@
   
 - 💻 WPF development for desktop applications.
 - 📱 Xamarin.Forms and Maui for mobile app development.
-- 💻 ASP MVC/API for web solutions.
+- 💻 Web API for creating RESTful services.
 - 🧰 MVVM architecture for clean and maintainable code.
-- 🔧 Git expert ensuring seamless collaboration and version control.
-- ☁  Entity Framework, MySql, SQLite, and MSSQL for efficient data management.
 - 🌐 Repository Pattern for organized and efficient data access.
 - 🔄 Dependency Injection for scalable and maintainable application architecture.
-- 🎮 Unity for creating immersive and interactive gaming experiences.
-
+- ☁  Entity Framework, MySql, SQLite, and MSSQL for efficient data management.
+- 🔧 Git expert ensuring seamless collaboration and version control.
+- 🐳 Docker for containerization of applications.
+  
 🔵<a href="https://www.linkedin.com/in/kacper-%C5%9Bwierczek" target="_BLANK">Linkedin Profile</a>
 
 Cheers!
